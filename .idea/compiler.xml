@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="blblog_article" />
+        <module name="blblog_article_api" />
+        <module name="blblog_base_api" />
+        <module name="blblog_common" />
+        <module name="blblog_eureka" />
+        <module name="blblog_gateway" />
+        <module name="blblog_label" />
+        <module name="blblog_qa" />
+        <module name="blblog_qa_api" />
+        <module name="blblog_user" />
+        <module name="blblog_user_api" />
+        <module name="changgou-user-oauth" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="blblog_article" target="1.8" />
+      <module name="blblog_article_api" target="1.8" />
+      <module name="blblog_base_api" target="1.8" />
+      <module name="blblog_common" target="1.8" />
+      <module name="blblog_eureka" target="1.8" />
+      <module name="blblog_gateway" target="1.8" />
+      <module name="blblog_label" target="1.8" />
+      <module name="blblog_parent" target="1.8" />
+      <module name="blblog_qa" target="1.8" />
+      <module name="blblog_qa_api" target="1.8" />
+      <module name="blblog_service_api" target="1.8" />
+      <module name="blblog_user" target="1.8" />
+      <module name="blblog_user_api" target="1.8" />
+      <module name="blblog_user_oauth" target="1.8" />
+      <module name="changgou-user-oauth" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

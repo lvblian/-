@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.blblog.qa.mapper.BlblogProblemMapper">
+    <select id="newList" parameterType="BIGINT" resultType="entity.BlblogProblem">
+        SELECT <include refid="table_columns" />
+        FROM blblog_problem p JOIN blblog_pl pl ON p.id=pl.problemid
+        WHERE 1=1
+        <if test="labelid != NULL">
+            AND pl.labelid=#{labelid}
+        </if>
+    </select>
+    <sql id="table_columns">
+        id,
+        title,
+        content,
+        createtime,
+        updatetime,
+        userid,
+        nickname,
+        visits,
+        thumbup,
+        reply,
+        solve,
+        replyname,
+        replytime,
+        deleted
+    </sql>
+</mapper>

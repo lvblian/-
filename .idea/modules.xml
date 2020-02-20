@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/blblog_article/blblog_article.iml" filepath="$PROJECT_DIR$/blblog_article/blblog_article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blblog_service_api/blblog_article_api/blblog_article_api.iml" filepath="$PROJECT_DIR$/blblog_service_api/blblog_article_api/blblog_article_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blblog_service_api/blblog_base_api/blblog_base_api.iml" filepath="$PROJECT_DIR$/blblog_service_api/blblog_base_api/blblog_base_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blblog_common/blblog_common.iml" filepath="$PROJECT_DIR$/blblog_common/blblog_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blblog_eureka/blblog_eureka.iml" filepath="$PROJECT_DIR$/blblog_eureka/blblog_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blblog_gateway/blblog_gateway.iml" filepath="$PROJECT_DIR$/blblog_gateway/blblog_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blblog_label/blblog_label.iml" filepath="$PROJECT_DIR$/blblog_label/blblog_label.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blblog_parent.iml" filepath="$PROJECT_DIR$/blblog_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blblog_qa/blblog_qa.iml" filepath="$PROJECT_DIR$/blblog_qa/blblog_qa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blblog_service_api/blblog_qa_api/blblog_qa_api.iml" filepath="$PROJECT_DIR$/blblog_service_api/blblog_qa_api/blblog_qa_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blblog_service_api/blblog_service_api.iml" filepath="$PROJECT_DIR$/blblog_service_api/blblog_service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blblog_user/blblog_user.iml" filepath="$PROJECT_DIR$/blblog_user/blblog_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blblog_service_api/blblog_user_api/blblog_user_api.iml" filepath="$PROJECT_DIR$/blblog_service_api/blblog_user_api/blblog_user_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/changgou-user-oauth/changgou-user-oauth.iml" filepath="$PROJECT_DIR$/changgou-user-oauth/changgou-user-oauth.iml" />
+    </modules>
+  </component>
+</project>
